@@ -1,3 +1,10 @@
+# 2023-06-08
+
+- Break change: semanticTokens highlight groups changed:
+  - `CocSem + type` to `CocSemType + type`
+  - `CocSem + modifier` to `CocSemMod + modifier`
+  - `CocSem + modifier + type` to `CocSemTypeMod + type + modifier`
+
 # 2023-01-30
 
 - Always show `cancellable` progress as notification without check
